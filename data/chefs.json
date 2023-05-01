@@ -1,0 +1,56 @@
+[
+        {
+            "id": 1,
+            "name": "Ranveer Brar",
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Ranveer_Brar_Wiki_Image.jpg/1200px-Ranveer_Brar_Wiki_Image.jpg",
+            "experience": "15 years",
+            "number_of_recipes": 3,
+            "likes": "182k",
+            "description": "Chef Ranveer Brar is a well-known Indian celebrity chef who has hosted various cooking shows and is known for his innovative recipes and techniques."
+        },
+        {
+            "id": 2,
+            "name": "Sanjeev Kapoor",
+            "picture": "https://wikibio.in/wp-content/uploads/2022/06/Sanjeev-Kapoor.jpg",
+            "experience": "35 years",
+            "number_of_recipes": 3,
+            "likes": "122k",
+            "description": "Chef Sanjeev Kapoor is a renowned Indian chef, entrepreneur, and television personality who has authored several cookbooks and is known for his contribution to the Indian culinary industry."
+        },
+        {
+            "id": 3,
+            "name": "Shipra Khanna",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/0/00/Shipra_Khanna.jpg",
+            "experience": "10 years",
+            "number_of_recipes": 3,
+            "likes": "169k",
+            "description": "Chef Shipra Khanna is an Indian chef, restaurateur, and cookbook author who won the MasterChef India Season 2 title and has since then established herself as a prominent chef in the Indian food industry."
+        },
+        {
+            "id": 4,
+            "name": "Vikas Khanna",
+            "picture": "https://1.bp.blogspot.com/-zfrbrzh7fk4/WAYarXfOvAI/AAAAAAAAKPM/pSxUPQAI4ZUl03-fbDAoOPQCvIIUKzuBACEw/s1600/Chef-Vikas-Khanna.jpg",
+            "experience": "20 years",
+            "number_of_recipes": 3,
+            "likes": "197k",
+            "description": "Chef Vikas Khanna is an Indian-born Michelin-starred chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the host of the television show MasterChef India."
+        },
+        {
+            "id": 5,
+            "name": "Nita Mehta",
+            "picture": "https://wikibio.in/wp-content/uploads/2021/09/Chef-Nita-Mehta.jpg",
+            "experience": "30 years",
+            "number_of_recipes": 3,
+            "likes": "185k",
+            "description": "Chef Nita Mehta is an Indian celebrity chef, author, restaurateur, and television personality who has written over 600 cookbooks and has won several awards for her contribution to the Indian food industry."
+        },
+        {
+            "id": 6,
+            "name": "Atul Kochhar",
+            "picture": "https://honestcooking.com/wp-content/uploads/2012/12/IMG_3494-Edit.jpg",
+            "experience": "25 years",
+            "number_of_recipes": 3,
+            "likes": "158k",
+            "description": "Chef Atul Kochhar is a Michelin-starred Indian-born British chef, restaurateur, and television personality who is known for his contemporary Indian cuisine and is the founder of the Benares restaurant in London."
+        }
+    ]
