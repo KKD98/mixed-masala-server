@@ -5,6 +5,8 @@ const port = process.env.PORT || 5000;
 
 const allChefsData = require('./data/chefs.json');
 
+const allRecipesData = require('./data/allrecipes.json');
+
 app.use(cors());
 
 app.get('/' , (req , res) => {
@@ -13,6 +15,10 @@ app.get('/' , (req , res) => {
 
 app.get('/allchefsdata' , (req , res) =>{
     res.send(allChefsData);
+})
+
+app.get('/allrecipes' , (req , res) => {
+    res.send(allRecipesData);
 })
 
 app.listen(port , ()=>{
